@@ -4,4 +4,10 @@ This repository contains a Python implementation of a neural network image class
 ## Evaluation
 The model's performance is evaluated using accuracy and loss metrics on the validation set.
 
-<img src="">
+<img src="demo/Pic_1.png">
+
+<img src="demo/Pic_2.png">
+
+<img src="demo/Pic_3.png">
+
+<img src="demo/Pic_4.png">
